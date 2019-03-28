@@ -1,2 +1,26 @@
 # CSCI-1300
 Homework from CSCI-1300 Starting Computing at CU Boulder
+
+Homeworks:
+HW2
+HW3
+HW4
+HW5
+HW6
+HW7
+HW8
+HW9
+HW10
+
+Recitations:
+REC1
+REC2
+REC3
+REC4
+REC5
+REC6
+REC7
+REC8
+REC9
+REC10
+REC11
