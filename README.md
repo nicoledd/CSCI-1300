@@ -3,6 +3,8 @@ Homework from CSCI-1300 Starting Computing at CU Boulder
 
 Homeworks:
 
+HW1
+
 HW2
 
 HW3
