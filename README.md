@@ -33,9 +33,9 @@ REC4 - 1) Prints a diamond shape of asterisks, given input side length, 2) Print
 
 REC6 - Given an input string, deliminator, and array: stores the items in the input string (that are separated by the deliminator) into the array
 
-REC7 - Writing to a file
+REC7 - Write squares of numbers 1-10 to a file
 
-REC8 - 1) Write squares of numbers to file, 2) Count num lines in file, 3) Writes names to a file
+REC8 - Count num lines in file
 
 REC9 - Basic dice game
 
