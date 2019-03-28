@@ -24,5 +24,5 @@ int fileLoadRead(string fileName){
 }
 
 int main(){
-  fileLoadRead("fileREC8.txt");
+  cout << fileLoadRead("fileREC8.txt") << "\n";
 }
