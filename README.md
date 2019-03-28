@@ -13,9 +13,9 @@ HW9
 HW10
 
 Recitations:
-REC1
-REC2
-REC3
+REC1 - Given a string, removes all its capital letters
+REC2 - Given the radius of a sphere, calculates its volume and surface area
+REC3 - Checks if given year is a leap year, also checks if given num is neg/pos/zero
 REC4
 REC5
 REC6
