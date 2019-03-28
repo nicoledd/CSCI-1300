@@ -31,9 +31,9 @@ REC3 - 1) Checks if given year is a leap year, 2) also checks if given num is ne
 
 REC4 - 1) Prints a diamond shape of asterisks, given input side length, 2) Prints 2 squares, one empty, one filled, given input side length
 
-REC5
+REC5 - No recitation this week
 
-REC6
+REC6 - Given an input string, deliminator, and array: stores the items in the input string (that are separated by the deliminator) into the array
 
 REC7
 
