@@ -27,9 +27,9 @@ REC1 - Given a string, removes all its capital letters
 
 REC2 - Given the radius of a sphere, calculates its volume and surface area
 
-REC3 - Checks if given year is a leap year, also checks if given num is neg/pos/zero
+REC3 - 1) Checks if given year is a leap year, 2) also checks if given num is neg/pos/zero
 
-REC4
+REC4 - 1) Prints a diamond shape of asterisks, given input side length, 2) Prints 2 squares, one empty, one filled, given input side length
 
 REC5
 
