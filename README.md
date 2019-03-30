@@ -3,9 +3,9 @@ Homework from CSCI-1300 Starting Computing at CU Boulder
 
 Homeworks:
 
-HW1 - 1) converts celsius to fahrenheit, 2) converts seconds to hours, minutes, and seconds, 3) basic population growth calculation
+HW1 - Hello world
 
-HW2
+HW2 - 1) converts celsius to fahrenheit, 2) converts seconds to hours, minutes, and seconds, 3) basic population growth calculation
 
 HW3
 
