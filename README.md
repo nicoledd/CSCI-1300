@@ -19,9 +19,7 @@ HW7 - Same as HW6, but utilizes Book and User class
 
 HW8 - Same as HW6, but utilizes Book and User class, as well as Library class
 
-HW9
-
-HW10
+HW9 - Journey to the West game, similar to Oregon Trail
 
 Recitations:
 
