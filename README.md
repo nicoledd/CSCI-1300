@@ -15,9 +15,9 @@ HW5 - Simple genome analysis: given 3 genomes and 1 unknown, program spits out w
 
 HW6 - Library database: stores info from books.txt and ratings.txt into arrays and calculates info about them
 
-HW7
+HW7 - Same as HW6, but utilizes Book and User class
 
-HW8
+HW8 - Same as HW6, but utilizes Book and User class, as well as Library class
 
 HW9
 
