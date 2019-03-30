@@ -9,9 +9,9 @@ HW2 - 1) converts celsius to fahrenheit, 2) converts seconds to hours, minutes, 
 
 HW3 - 1) returns next number in Collatz sequence, 2) counts num digits in input integer, 3) returns num days in input month
 
-HW4 - jeopardy dice game
+HW4 - Jeopardy dice game
 
-HW5
+HW5 - Simple genome analysis: given 3 genomes and 1 unknown, program spits out which genome is most similar to the unknown
 
 HW6
 
