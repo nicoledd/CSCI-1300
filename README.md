@@ -7,7 +7,7 @@ HW1 - Hello world
 
 HW2 - 1) converts celsius to fahrenheit, 2) converts seconds to hours, minutes, and seconds, 3) basic population growth calculation
 
-HW3
+HW3 - 1) returns next number in Collatz sequence, 2) counts num digits in input integer, 3) returns num days in input month
 
 HW4
 
