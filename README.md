@@ -9,7 +9,7 @@ HW2 - 1) converts celsius to fahrenheit, 2) converts seconds to hours, minutes, 
 
 HW3 - 1) returns next number in Collatz sequence, 2) counts num digits in input integer, 3) returns num days in input month
 
-HW4
+HW4 - jeopardy dice game
 
 HW5
 
@@ -41,7 +41,7 @@ REC7 - Write squares of numbers 1-10 to a file
 
 REC8 - Count num lines in file
 
-REC9 - Basic dice game
+REC9 - Roll dice
 
 REC10 - Modifying numbers in a vector
 
