@@ -11,9 +11,9 @@ HW3 - 1) returns next number in Collatz sequence, 2) counts num digits in input 
 
 HW4 - Jeopardy dice game
 
-HW5 - Simple genome analysis: given 3 genomes and 1 unknown, program spits out which genome is most similar to the unknown
+HW5 - Simple genome analysis: given 3 genomes and 1 unknown, program spits out which genome is most similar to the unknown. Calculates hamming distances and similarity scores.
 
-HW6
+HW6 - Library database: stores info from books.txt and ratings.txt into arrays and calculates info about them
 
 HW7
 
