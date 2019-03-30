@@ -51,5 +51,7 @@ int main() {
     convertSeconds(100);
     
     population(100);
+    
+    return 0;
 
 }
